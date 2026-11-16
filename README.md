@@ -1,5 +1,6 @@
-# projet_champi
-
+# projet_champi 
+Tuning HGB: https://sklearngeneticopt.rodrigo-arenas.com/versions/0.13/tutorials/tune-gradient-boosting  
+Tuning RF : https://sklearngeneticopt.rodrigo-arenas.com/versions/0.13/tutorials/tune-random-forest#which-hyperparameters-actually-matter
 ## Objectif
 
 Prédire la **toxicité d'un champignon** (vénéneux ou comestible) à partir de ses caractéristiques, dans le cadre de la compétition Kaggle [UWI Poisonous Mushrooms](https://www.kaggle.com/competitions/uwi-poisonous-mushorooms).
